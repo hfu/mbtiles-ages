@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/hfu/mbtiles-ages#readme",
   "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1",
     "config": "^2.0.1",
+    "date-fns": "^1.29.0",
     "hjson": "^3.1.1"
   }
 }
